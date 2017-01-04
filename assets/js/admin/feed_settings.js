@@ -8,14 +8,14 @@ window.GFGoogleSheetsFeedSettings = null;
         /**
          * Stores used elements within this api.
          *
-         * @since 1.0.0
+         * @since {{VERSION}}
          */
         $elements: {},
 
         /**
          * Initializes this api.
          *
-         * @since 1.0.0
+         * @since {{VERSION}}
          */
         init: function () {
 
@@ -27,7 +27,7 @@ window.GFGoogleSheetsFeedSettings = null;
         /**
          * Populates the Google Sheet field choices on load.
          *
-         * @since 1.0.0
+         * @since {{VERSION}}
          */
         populate_sheet_choices: function () {
 
@@ -69,7 +69,7 @@ window.GFGoogleSheetsFeedSettings = null;
         /**
          * Gets all global elements.
          *
-         * @since 1.0.0
+         * @since {{VERSION}}
          */
         get_elements: function () {
 
@@ -83,7 +83,7 @@ window.GFGoogleSheetsFeedSettings = null;
         /**
          * Binds all global handlers.
          *
-         * @since 1.0.0
+         * @since {{VERSION}}
          */
         bind_handlers: function () {
 
@@ -93,7 +93,7 @@ window.GFGoogleSheetsFeedSettings = null;
         /**
          * Updates the field map options with the new sheet column headers.
          *
-         * @since 1.0.0
+         * @since {{VERSION}}
          */
         update_field_map_choices: function () {
 

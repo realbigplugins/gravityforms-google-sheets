@@ -1,13 +1,13 @@
 {
   "name": "GravityFormsGoogleSheets",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "authors": [
     "Joel Worsham <joel@realbigmarketing.com>"
   ],
   "description": "Gravity Forms Google Sheets Add-On.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/realbig/ambassador-gf-gs.git"
+    "url": "https://github.com/realbigplugins/gravityforms-googlesheets.git"
   },
   "devDependencies": {
     "gulp": "^3.9.0",
